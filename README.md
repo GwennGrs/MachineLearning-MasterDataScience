@@ -9,12 +9,12 @@ Les notebooks couvrent les concepts fondamentaux et avancés du machine learning
 
 ## Quel projet y trouver ? 
 ### Machine learning 1 [ML1](ML1/)
-[Notebook - Classification](ML1/Classification-lab.ipynb)
-[Notebook - Regression linéaire](ML1/Linear_regression-lab.ipynb)
-[Notebook - Descente de gradient et Régularisation](ML1/Regularization-lab.ipynb)
-[Notebook - Apprentissage non-supervisé](ML1/Unsupervised_learning-lab.ipynb)
+[Notebook - Classification](ML1/Classification-lab.ipynb)  
+[Notebook - Regression linéaire](ML1/Linear_regression-lab.ipynb)  
+[Notebook - Descente de gradient et Régularisation](ML1/Regularization-lab.ipynb)  
+[Notebook - Apprentissage non-supervisé](ML1/Unsupervised_learning-lab.ipynb)  
 
 ### Machine learning 2 [ML2](ML2/)
-[Notebook - Classifieur linéaire (Perceptron et Régression Logistique](ML2/Linear_classifier-lab.ipynb)
-[Notebook - Classification - SVM (Vecteur support machine)](ML2/SVM-lab.ipynb)
-[Notebook - Arbre de décision](ML2/Decision_tree-lab.ipynb)
+[Notebook - Classifieur linéaire (Perceptron et Régression Logistique](ML2/Linear_classifier-lab.ipynb)  
+[Notebook - Classification - SVM (Vecteur support machine)](ML2/SVM-lab.ipynb)  
+[Notebook - Arbre de décision](ML2/Decision_tree-lab.ipynb)  
