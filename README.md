@@ -3,7 +3,7 @@
 Ce dépôt regroupe l'ensemble des **travaux pratiques (TP / labs)** réalisés dans le cadre des cours **Machine Learning 1 & Machine Learning 2**
 du **Master Data Science – Université de Lille**.
 
-Les notebooks couvrent les concepts fondamentaux et avancés du machine learning, répondant à des questions théoriques et pratiques.
+Les notebooks couvrent les concepts fondamentaux du machine learning, répondant à des questions théoriques et pratiques par l'analyse des résultats ou la décomposition des formules mathématiques sous-jacentes.
 
 ---
 
