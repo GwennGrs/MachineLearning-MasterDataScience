@@ -24,12 +24,11 @@ Les notebooks couvrent les concepts fondamentaux et avancés du machine learning
 ## Comment l'exécuter ? 
 
 #### Création de l'environnement virtuel
-'''
+```bash
 python -m venv venv
 source venv/bin/activate
-'''
-
+```
 #### Installation des packages requis
-'''
+```bash
 pip install -r requirements.txt
-'''
+```
