@@ -18,3 +18,18 @@ Les notebooks couvrent les concepts fondamentaux et avancés du machine learning
 [Notebook - Classifieur linéaire (Perceptron et Régression Logistique)](ML2/Linear_classifier-lab.ipynb)  
 [Notebook - Classification - SVM (Vecteur support machine)](ML2/SVM-lab.ipynb)  
 [Notebook - Arbre de décision](ML2/Decision_tree-lab.ipynb)  
+
+---
+
+## Comment l'exécuter ? 
+
+#### Création de l'environnement virtuel
+'''
+python -m venv venv
+source venv/bin/activate
+'''
+
+#### Installation des packages requis
+'''
+pip install -r requirements.txt
+'''
