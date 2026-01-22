@@ -18,3 +18,7 @@ Les notebooks couvrent les concepts fondamentaux et avancés du machine learning
 [Notebook - Classifieur linéaire (Perceptron et Régression Logistique)](ML2/Linear_classifier-lab.ipynb)  
 [Notebook - Classification - SVM (Vecteur support machine)](ML2/SVM-lab.ipynb)  
 [Notebook - Arbre de décision](ML2/Decision_tree-lab.ipynb)  
+
+### Machine learning 3 [ML2](ML3/)
+[Notebook - Regression Logistique et Descente de Gradient](ML3/LogisticRegression-GradientDescent.ipynb)
+[Notebook - Multilayer Perceptron (from scratch)](ML3/MLP.ipynb)
