@@ -20,8 +20,8 @@ Les notebooks couvrent les concepts fondamentaux du machine learning, répondant
 - [Notebook - Arbre de décision](ML2/Decision_tree-lab.ipynb)  
 
 ### Machine learning 3 [ML2](ML3/)
-[Notebook - Regression Logistique et Descente de Gradient](ML3/LogisticRegression-GradientDescent.ipynb)  
-[Notebook - Multilayer Perceptron (from scratch)](ML3/MLP.ipynb)
+- [Notebook - Regression Logistique et Descente de Gradient](ML3/LogisticRegression-GradientDescent.ipynb)  
+- [Notebook - Multilayer Perceptron (from scratch)](ML3/MLP.ipynb)
 
 ---
 
